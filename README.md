@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1300&size=30&pause=1000&color=0FF743&background=313536DA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;+I'm+Atharva+Golwalkar" alt="Typing SVG" />
 </a>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvagolwalkar&label=Profile%20views&color=2bd643&style=flat" alt="atharvag" /> </p>
  🌍 Connect with Me:
 
 <a href="https://www.linkedin.com/in/atharva-golwalkar-87478225a/" target="_blank">
